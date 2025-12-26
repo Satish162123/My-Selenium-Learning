@@ -1,0 +1,8 @@
+2025-12-26 21:45:24 | INFO | LoginPage | Opening URL: https://www.saucedemo.com/
+2025-12-26 21:45:28 | DEBUG | LoginPage | Waiting for visibility of element: ('id', 'user-name')
+2025-12-26 21:45:28 | INFO | LoginPage | Typing into element: ('id', 'user-name')
+2025-12-26 21:45:28 | DEBUG | LoginPage | Waiting for visibility of element: ('id', 'user-name')
+2025-12-26 21:45:28 | INFO | LoginPage | Typing into element: ('id', 'password')
+2025-12-26 21:45:28 | DEBUG | LoginPage | Waiting for visibility of element: ('id', 'password')
+2025-12-26 21:45:28 | INFO | LoginPage | Clicking element: ('id', 'login-button')
+2025-12-26 21:45:28 | DEBUG | LoginPage | Waiting for visibility of element: ('id', 'login-button')

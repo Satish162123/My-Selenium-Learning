@@ -1,0 +1,17 @@
+2025-12-26 21:55:33 | INFO | LoginPage | Opening URL: https://www.saucedemo.com/
+2025-12-26 21:55:36 | DEBUG | LoginPage | Waiting for visibility of element: ('id', 'user-name')
+2025-12-26 21:55:36 | INFO | LoginPage | Typing into element: ('id', 'user-name')
+2025-12-26 21:55:36 | DEBUG | LoginPage | Waiting for visibility of element: ('id', 'user-name')
+2025-12-26 21:55:36 | INFO | LoginPage | Typing into element: ('id', 'password')
+2025-12-26 21:55:36 | DEBUG | LoginPage | Waiting for visibility of element: ('id', 'password')
+2025-12-26 21:55:36 | INFO | LoginPage | Clicking element: ('id', 'login-button')
+2025-12-26 21:55:36 | DEBUG | LoginPage | Waiting for visibility of element: ('id', 'login-button')
+2025-12-26 21:55:37 | DEBUG | InventoryPage | Waiting for visibility of element: ('class name', 'inventory_list')
+2025-12-26 21:55:40 | INFO | LoginPage | Opening URL: https://www.saucedemo.com/
+2025-12-26 21:55:41 | DEBUG | LoginPage | Waiting for visibility of element: ('id', 'user-name')
+2025-12-26 21:55:43 | INFO | LoginPage | Typing into element: ('id', 'user-name')
+2025-12-26 21:55:43 | DEBUG | LoginPage | Waiting for visibility of element: ('id', 'user-name')
+2025-12-26 21:55:43 | INFO | LoginPage | Typing into element: ('id', 'password')
+2025-12-26 21:55:43 | DEBUG | LoginPage | Waiting for visibility of element: ('id', 'password')
+2025-12-26 21:55:43 | INFO | LoginPage | Clicking element: ('id', 'login-button')
+2025-12-26 21:55:43 | DEBUG | LoginPage | Waiting for visibility of element: ('id', 'login-button')

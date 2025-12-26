@@ -17,10 +17,9 @@ def test_valid_login_with_logging(driver):
 @pytest.mark.regression
 def test_invalid_login_with_logging(driver):
     login_page = LoginPage(driver)
-
     login_page.load()
     login_page.login(ConfigReader.get("credentials", "invalid_username"),
                      ConfigReader.get("credentials", "invalid_password"))
     
     assert "Username and password do not match" in login_page.get_error_message()
-    
+    #assert False  # Force failure to test logging and screenshot capture
